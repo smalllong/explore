@@ -25,6 +25,7 @@ items:
  - neomjs/neo
  - preactjs/preact
  - ionic-team/stencil
+ - smalllong/lightue
 display_name: Front-end JavaScript frameworks
 created_by: jonrohan
 ---
